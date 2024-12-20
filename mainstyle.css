@@ -867,23 +867,23 @@ footer {
   }
 
   .img3 {
-    width: 82vw;
-    margin-left: 405px;
+    width: 95vw;
+    margin-left: 390px;
   }
 
   .img4 {
-    width: 85vw;
-    margin-left: 375px;
+    width: 95vw;
+    margin-left: 390px;
   }
 
   .img6 {
-    width: 80vw;
-    margin-left: 401px;
+    width: 95vw;
+    margin-left: 390px;
   }
 
   .img31 {
-    width: 80vw;
-    margin-left: 401px;
+    width: 95vw;
+    margin-left: 390px;
   }
 
   .container {
@@ -892,23 +892,36 @@ footer {
 
   .content {
     width: 215vw;
-    font-size: 31px;
+    font-size: 37px;
+  }
+  .card1 .card-content{
+    font-size: 32px;
+  }
+  .card2 .card-content{
+    font-size: 32px;
+  }
+  .card3 .card-content{
+    font-size: 32px;
   }
 
+.card-container{
+  display: grid;
+  gap: 80px;
+}
   .c2 {
     width: 215vw;
-    font-size: 31px;
+    font-size: 37px;
     text-align: center;
   }
 
   .c3 {
     width: 215vw;
-    font-size: 31px;
+    font-size: 37px;
   }
 
   .c8 {
     width: 215vw;
-    font-size: 31px;
+    font-size: 37px;
   }
 
   .card3 {
@@ -916,35 +929,62 @@ footer {
     height: auto;
   }
 
-  .card1,
-  .card2 {
-    width: 72vw;
+  .card1{
+  width: 110vw;
+        height: 92vh;
+  }
+  .card2{
+    width: 110vw;
+    height:91vh;
+  }
+  .card3{
+    width: 110vw;
+    height: 85vh;
   }
 
-  .card1 img,
-  .card2 img,
-  .card3 img {
-    width: 72vw;
+  .card1 img{
+    width: auto;
+  }
+  .card2 img{
+    width: 97vw;
+    height: 35vh;
+  }
+  .card3 img{
+    width: 97vw !important;
+    height: 32vh;
+  }
+
+  .b1{
+    font-size: 45px;
+        border-radius: 30px;
+  }
+  .b2{
+    font-size: 45px;
+        border-radius: 30px;
+  }
+  .b3{
+    font-size: 45px;
+        border-radius: 30px;
   }
 
   .head {
-    font-size: 75px;
+    font-size: 85px;
   }
 
   .h2 {
-    font-size: 75px;
+    font-size: 85px;
   }
 
   .h3 {
-    font-size: 75px;
+    font-size: 85px;
   }
 
   .h8 {
-    font-size: 75px;
+    font-size: 85px;
   }
 
   .h4 {
-    font-size: 75px;
+    font-size: 85px;
   }
 
   .img1 {
