@@ -767,7 +767,7 @@ footer {
 
   .h7 {
     height: 21vh;
-    width: 256vw;
+    width: 257vw;
   }
 
   .logo {
@@ -794,24 +794,25 @@ footer {
 
   }
   .logged-in .logo{
-    top: -10px;
+    top: 11px;
     width: 81vw;
     font-size: 40px;
-    left: -38px;
+    left: -2px;
   }
   #user-info{
     width: 72vw !important;
         font-size: 20px !important;
         position: relative !important;
-        left: -150px !important;
-        top: -51px !important;
+        left: -238px !important;
+        top: -39px !important;
   }
 
   .logged-in .nav-links {
-    left: 239px;
-        margin-top: 60px;
-        top: 12px;
-        gap: 17px;
+    left: 300px;
+    margin-top: 60px;
+    top: 12px;
+    gap: 17px;
+    width: 267vw;
   }
 
   .not-logged-in .nav-links {
@@ -835,7 +836,7 @@ footer {
   }
 
   .login-btn {
-    margin-top: -108px;
+    margin-top: -75px;
     margin-left: -120px;
     font-size: 30px;
   }
