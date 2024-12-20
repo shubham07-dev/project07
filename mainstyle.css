@@ -761,13 +761,13 @@ footer {
 
 @media (max-width:480px) {
   body {
-    width: 1035px;
+    width: 1077px;
     overflow-x: hidden;
   }
 
   .h7 {
     height: 21vh;
-    width: 257vw;
+    width: 272vw;
   }
 
   .logo {
@@ -863,7 +863,7 @@ footer {
     right: 50px;
   }
   .img2 {
-    width: 260vw;
+    width: 270vw;
   }
 
   .img3 {
@@ -887,7 +887,7 @@ footer {
   }
 
   .container {
-    width: 260vw;
+    width: 270vw;
   }
 
   .content {
